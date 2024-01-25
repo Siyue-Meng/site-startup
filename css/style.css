@@ -1,0 +1,45 @@
+/* Importing all components file */
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/meshcontainer.css");
+@import url("components/card-detail.css");
+
+/* General style rules for Colors and fonts */
+body {
+	font-family: "Roboto", sans-serif;
+	font-size: 18px;
+	color: rgb(105,78,78);
+	background-color: rgb(247,239,229);
+	margin: 0px;
+}
+h1,h2 {
+	font-family: "Merienda", cursive;
+	font-optical-sizing: auto;
+  	font-weight: 600;
+  	font-style: normal;
+}
+
+h2 {
+	font-size: 35px;
+}
+a {
+	text-decoration: none;
+	color: rgb(105, 78, 78);
+	font-weight: bold;
+}
+a:hover {
+	color: rgb(247, 239, 229);
+}
+
+.img-list {
+	height: 325px;
+	width: 265px;
+	border-radius: 5px;
+}
+.img-link img:hover {
+	opacity: 0.8;
+}
+
+

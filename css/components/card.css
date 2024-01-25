@@ -1,0 +1,12 @@
+/* Card */
+.card {
+	background-color: rgba(195,172,208,0.7);
+	padding: 15px;
+	height: 370px;
+	width: 275px;
+	border-radius: 10px;
+}
+
+.card p {
+	text-align: center;
+}

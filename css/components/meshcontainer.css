@@ -1,0 +1,8 @@
+.meshContainer {
+	display: grid;
+	grid-template-columns: 50% 50%;
+	grid-template-rows: 50% 50%;
+	justify-items: center;
+	align-items: center;
+	grid-row-gap: 20px;
+}

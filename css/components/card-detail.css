@@ -1,0 +1,22 @@
+.card-detail {
+	padding: 40px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 10px;
+	background-color: rgba(195,172,208,0.7);
+}
+
+.card-detail h3 {
+	font-size: 30px;
+}
+
+.card-detail p {
+	font-size: 25px;
+}
+
+.card-detail ul {
+	margin: 20px;
+	line-height: 2;
+}
